@@ -1,0 +1,6 @@
+SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,Gender,Churn
+0,Yes,No,1,Yes,No,Yes,No,No,No,No,Month-to-month,Female,Yes
+1,No,No,60,Yes,Yes,No,Yes,Yes,Yes,Yes,Two year,Male,No
+0,Yes,No,12,Yes,No,Yes,Yes,No,Yes,No,Month-to-month,Male,Yes
+1,Yes,Yes,24,Yes,Yes,No,No,Yes,Yes,Yes,One year,Male,No
+1,No,Yes,36,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Male,Yes

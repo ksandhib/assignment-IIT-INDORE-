@@ -1,0 +1,4 @@
+Enter first number (a): 50
+Enter second number (b): 50
+Enter third number (c): 40
+Greatest number is: 50 (There is a tie)
